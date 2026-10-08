@@ -5,3 +5,4 @@ xray_data/
 *.keras
 __pycache__/
 .ipynb_checkpoints/
+!epoch_30.h5
